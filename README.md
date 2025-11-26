@@ -31,7 +31,7 @@ python main.py --pred_len 1800 --seq_len 360 --batch_size 32 --log_interval 15
 <img width="1503" height="1724" alt="Image" src="https://github.com/user-attachments/assets/22e307d2-6946-453f-8e23-18bdf93a76ca" />
 
 # Future estimation
-<img width="3525" height="2743" alt="Image" src="https://github.com/user-attachments/assets/57717e54-2f08-4855-bb0a-df092e973398" />
+<img width="975" height="765" alt="Image" src="https://github.com/user-attachments/assets/0bda1fbd-fa41-44b8-941d-c07fedc54200" />
 
 # Hidden state visualization
 <img width="5701" height="5933" alt="Image" src="https://github.com/user-attachments/assets/dfaa5553-f349-4d0f-80b6-a53c0a460d4d" />
