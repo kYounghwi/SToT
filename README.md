@@ -1,4 +1,4 @@
-# Spatiotemporal Topology-aware Transformer (SToT)  (Transportation Research Part D: Transport and Environment)
+# Spatiotemporal Topology-aware Transformer (SToT)  <sub>(Transportation Research Part D: Transport and Environment)</sub>
 The repo is the official implementation for the paper: [How Will Arctic Shipping Emissions Evolve? Long-Term Forecasting with a Clustering-Driven Spatiotemporal Topology-aware Transformer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5373225)
 
 # Architecture
